@@ -1,1 +1,4 @@
-# lab-conflictos
+# Linea principal: cambio desde main
+
+# 
+
