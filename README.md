@@ -1,6 +1,4 @@
-# lab-conflictos
+# Linea principal: cambio distinto desde feature-b
 
-
-
-Linea principal: hecha en feature-b (version distinta)
+# 
 
