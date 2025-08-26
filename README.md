@@ -1,4 +1,2 @@
-# Linea principal: cambio distinto desde feature-b
-
-# 
+Linea principal: resuelta uniendo cambios de main y feature-b
 
